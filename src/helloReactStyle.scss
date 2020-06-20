@@ -1,0 +1,16 @@
+$background: #072146;
+$white: #FFF;
+$font-size: 16px;
+
+.hello {
+  background-color: $background;
+  margin-top: 16px;
+  padding: 8px;
+  width: 100px;
+  span{
+    color: $white;
+    font-size: $font-size;
+    text-align: center;
+  }
+}
+
